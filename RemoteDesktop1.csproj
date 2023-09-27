@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="IMG\icons8-chrome-48 %281%29.png" />
+    <None Remove="IMG\icons8-cmd-50.png" />
+    <None Remove="IMG\icons8-dots-48.png" />
+    <None Remove="IMG\icons8-double-down-48.png" />
+    <None Remove="IMG\icons8-file-explorer-48 %281%29.png" />
+    <None Remove="IMG\icons8-firefox-48.png" />
+    <None Remove="IMG\icons8-group-48 %281%29.png" />
+    <None Remove="IMG\icons8-key-48.png" />
+    <None Remove="IMG\icons8-keyboard-48.png" />
+    <None Remove="IMG\icons8-microsoft-edge-48 %281%29.png" />
+    <None Remove="IMG\icons8-moon-64.png" />
+    <None Remove="IMG\icons8-mouse-48.png" />
+    <None Remove="IMG\icons8-opera-48 %281%29.png" />
+    <None Remove="IMG\icons8-p-50 %281%29.png" />
+    <None Remove="IMG\icons8-play-48 %282%29.png" />
+    <None Remove="IMG\icons8-puzzle-48 %281%29.png" />
+    <None Remove="IMG\icons8-search-folder-48.png" />
+    <None Remove="IMG\icons8-secure-mail-48.png" />
+    <None Remove="IMG\icons8-settings-24.png" />
+    <None Remove="IMG\icons8-stack-48.png" />
+    <None Remove="IMG\icons8-stop-48.png" />
+    <None Remove="IMG\icons8-system-task-32.png" />
+    <None Remove="IMG\icons8-telegram-48.png" />
+    <None Remove="IMG\icons8-tools-48.png" />
+    <None Remove="IMG\icons8-triangle-48 %281%29.png" />
+    <None Remove="IMG\icons8-twitterx-48.png" />
+    <None Remove="IMG\icons8-user-40.png" />
+    <None Remove="IMG\icons8-webcam-48.png" />
+    <None Remove="IMG\icons8-wi-fi-48.png" />
+    <None Remove="IMG\image_2023-09-14_124438314-removebg-preview.png" />
+    <None Remove="IMG\proton-logo-p_kftwpv.png" />
+    <None Remove="IMG\Proton.png" />
+    <None Remove="IMG\unnamed_copy.png" />
+    <None Remove="IMG\wallpaperflare.com_wallpaper %285%29.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="IMG\icons8-chrome-48 (1).png" />
+    <Resource Include="IMG\icons8-cmd-50.png" />
+    <Resource Include="IMG\icons8-dots-48.png" />
+    <Resource Include="IMG\icons8-double-down-48.png" />
+    <Resource Include="IMG\icons8-file-explorer-48 (1).png" />
+    <Resource Include="IMG\icons8-firefox-48.png" />
+    <Resource Include="IMG\icons8-group-48 (1).png" />
+    <Resource Include="IMG\icons8-key-48.png" />
+    <Resource Include="IMG\icons8-keyboard-48.png" />
+    <Resource Include="IMG\icons8-microsoft-edge-48 (1).png" />
+    <Resource Include="IMG\icons8-moon-64.png" />
+    <Resource Include="IMG\icons8-mouse-48.png" />
+    <Resource Include="IMG\icons8-opera-48 (1).png" />
+    <Resource Include="IMG\icons8-p-50 (1).png" />
+    <Resource Include="IMG\icons8-play-48 (2).png" />
+    <Resource Include="IMG\icons8-puzzle-48 (1).png" />
+    <Resource Include="IMG\icons8-search-folder-48.png" />
+    <Resource Include="IMG\icons8-secure-mail-48.png" />
+    <Resource Include="IMG\icons8-settings-24.png" />
+    <Resource Include="IMG\icons8-stack-48.png" />
+    <Resource Include="IMG\icons8-stop-48.png" />
+    <Resource Include="IMG\icons8-system-task-32.png" />
+    <Resource Include="IMG\icons8-telegram-48.png" />
+    <Resource Include="IMG\icons8-tools-48.png" />
+    <Resource Include="IMG\icons8-triangle-48 (1).png" />
+    <Resource Include="IMG\icons8-twitterx-48.png" />
+    <Resource Include="IMG\icons8-user-40.png" />
+    <Resource Include="IMG\icons8-webcam-48.png" />
+    <Resource Include="IMG\icons8-wi-fi-48.png" />
+    <Resource Include="IMG\image_2023-09-14_124438314-removebg-preview.png" />
+    <Resource Include="IMG\proton-logo-p_kftwpv.png" />
+    <Resource Include="IMG\Proton.png" />
+    <Resource Include="IMG\unnamed_copy.png" />
+    <Resource Include="IMG\wallpaperflare.com_wallpaper (5).png" />
+  </ItemGroup>
+
+</Project>
